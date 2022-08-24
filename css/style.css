@@ -1,0 +1,67 @@
+.list{
+	font-size: 20px;
+	color: green;
+}
+
+.table{
+
+border: 15px solid black;
+font-size: 10px;
+color: black;
+background-color: cadetblue;
+}
+.abc{
+	font-size: 30px;
+	color:black;
+	
+}
+ .header{
+ 	min-height: 100px;
+ 	font-size: 100px;
+ 	background-color: red;
+ }
+ .wrapper{
+ overflow:hidden;
+ border:5px solid brown;
+ }
+ .blog{
+ 	float: left;
+width: 50%;
+min-height: 10px;
+background-color:green;
+}
+.contract{
+	float: right;
+width: 50%;
+min-height: 10px;
+background-color:cadetblue;
+}
+.container{
+overflow: hidden;
+}
+.box{
+	float:left;
+	width:33.33%;
+	height: 150px;
+}
+.purple{
+	background-color:purple;
+}
+.brown{
+	background-color:brown;
+}
+.pink{
+	background-color:hotpink;
+}
+	
+
+.footer{
+	min-height: 10px;
+	font-size: 50px;
+	background-color:yellow;
+}
+
+
+
+
+ 
